@@ -1,4 +1,4 @@
->> Use Python3!
+>> Use Python3! Example
 >> Feel free to use any editor, IDE or notebook you want. But never, NEVER, use your system `python` to avoid future problems. If not using docker images, stick to Python Virtual Environments (`venv`, `pyenv`, ...)
 
 # Instructions
